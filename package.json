@@ -57,8 +57,5 @@
     "minimist": "^1.2.5",
     "string-hash": "^1.1.0",
     "transformation-matrix-js": "^2.6.5"
-  },
-  "optionalDependencies": {
-    "nightmare": "^3.0.2"
   }
 }
